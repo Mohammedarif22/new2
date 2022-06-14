@@ -1,9 +1,15 @@
-void fun3() {
-  print('hello world');
-  var name = "mohammed arif";
-  int age =17;
+void main() {
+  fun3() {
+    print('hi');
+    print('hi');
+    print('hi');
+
+    print('hi');
+  }
 }
 
-void main() {
-  fun3();
+fun() {
+  for (int a = 0; a < 100; a++) {
+    print('HI');
+  }
 }
