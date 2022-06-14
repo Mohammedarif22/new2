@@ -1,5 +1,4 @@
-import 'dart:math';
-
 fun() {
+  print('hello');
   print('hello');
 }
